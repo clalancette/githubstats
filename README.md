@@ -72,7 +72,7 @@ $ python githubstats.py -u <myusername> -p <mypassword> -r clalancette/pycdlib -
 Getting issues for clalancette/pycdlib... done
 Getting issues for clalancette/oz... done
 
------------------------ Mos>t active repositories since 2016-05-23 13:00:44.139554 ------------------
+----------------------- Most active repositories since 2016-05-23 13:00:44.139554 ------------------
 Name,Total Issues,Closed Issues,Commits,Commit Comments,Issue Comments,PR Comments,Sum
 clalancette/pycdlib,2,2,256,0,5,0,263
 clalancette/oz,41,32,82,3,88,0,214
